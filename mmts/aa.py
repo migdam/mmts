@@ -1,4 +1,5 @@
-file = open('text.txt','r')
+file = open('new.txt','r')
 print(file.read())
 a=1
 b=2
+c=3
